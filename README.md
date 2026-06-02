@@ -5,9 +5,9 @@
 
 The **Circular Dendrogram** extension by **AnyChart** lays out what a hierarchy actually looks like — not packed by value like a treemap, not stacked in rings like a sunburst, but as the parent-child tree it really is. Branches fan out from a single center to leaves on the perimeter, with each top-level branch in a distinct color from a categorical palette so structure reads at a glance. Native to all Qlik Sense environments, including Cloud, Enterprise on Windows, and Desktop.
 
-> *[Introducing Circular Dendrogram for Qlik Sense](https://qlik.anychart.com/news/introducing-circular-dendrogram-for-qlik-sense/)*
+> *[Introducing Circular Dendrogram for Qlik Sense](https://qlik.anychart.com/news/circular-dendrogram-qlik-sense/)*
 
-[<img src="https://qlik.anychart.com/news/content/images/size/w1600/2026/05/radial-tree-in-circular-dendrogram-in-qlik-sense.png" alt="Circular Dendrogram in a Qlik Sense app" width="75%">](https://qlik.anychart.com/news/introducing-circular-dendrogram-for-qlik-sense/)
+[![Circular Dendrogram in a Qlik Sense app](https://qlik.anychart.com/news/content/images/size/w1600/2026/05/radial-tree-in-circular-dendrogram-in-qlik-sense.png)](https://qlik.anychart.com/news/circular-dendrogram-qlik-sense/)
 
 ## When to use
 - Organizational and reporting charts (divisions, departments, services, staff)
@@ -16,7 +16,7 @@ The **Circular Dendrogram** extension by **AnyChart** lays out what a hierarchy 
 - Any nested-category data spanning up to ten dimensions
 
 ## Key features
-[<img src="https://cdn.anychart.com/qlik-media/circular_dendogram_selections_19818d9625.gif" alt="Demonstration of the interactive Circular Dendrogram in Qlik Sense" width="75%">](https://qlik.anychart.com/extensions/circular-dendrogram/overview/)
+[![Demonstration of the interactive Circular Dendrogram in Qlik Sense](https://cdn.anychart.com/qlik-media/circular_dendogram_selections_19818d9625.gif)](https://qlik.anychart.com/extensions/circular-dendrogram/overview/)
 - Two to ten dimensions, with one measure sizing the leaves
 - Click selections highlighting the path and cross-filtering the sheet
 - Categorical branch coloring
